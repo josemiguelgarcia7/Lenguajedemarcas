@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dempresa>
+    <edificio>
+        <numedificio>Edificio 1</numedificio>
+        <informacionedif>
+            <direccion>C/falsa 1</direccion>
+            <totalplantas>3</totalplantas>
+        </informacionedif>
+        <plantas>
+            <numcuadros>5</numcuadros>
+            <numplanta>Planta 1
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Pepe Garcia</nombre>
+                    <edad>22</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Pepin Lopez</nombre>
+                    <edad>20</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Javier Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Carmen Suarez</nombre>
+                    <edad>26</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Pedro Torres</nombre>
+                    <edad>18</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 2
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Pepe Nose</nombre>
+                    <edad>26</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Maria Lopez</nombre>
+                    <edad>27</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Alberto Gomez</nombre>
+                    <edad>22</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Guillermo Suarez</nombre>
+                    <edad>24</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Eric Torres</nombre>
+                    <edad>19</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 3
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Rocio Garcia</nombre>
+                    <edad>28</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Carmen Lopez</nombre>
+                    <edad>29</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Antonio Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Marta Suarez</nombre>
+                    <edad>21</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Javier Torres</nombre>
+                    <edad>29</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+        
+        </plantas>
+    
+    </edificio>
+
+    <edificio>
+        <numedificio>Edificio 2</numedificio>
+        <informacionedif>
+            <direccion>C/contraia 7</direccion>
+            <totalplantas>3</totalplantas>
+        </informacionedif>
+        <plantas>
+            <numcuadros>5</numcuadros>
+            <numplanta>Planta 1
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Pepe Garcia</nombre>
+                    <edad>22</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Pepin Lopez</nombre>
+                    <edad>20</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Javier Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Carmen Suarez</nombre>
+                    <edad>26</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Pedro Torres</nombre>
+                    <edad>18</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 2
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Pepe Nose</nombre>
+                    <edad>26</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Maria Lopez</nombre>
+                    <edad>27</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Alberto Gomez</nombre>
+                    <edad>22</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Guillermo Suarez</nombre>
+                    <edad>24</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Eric Torres</nombre>
+                    <edad>19</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 3
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Rocio Garcia</nombre>
+                    <edad>28</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Carmen Lopez</nombre>
+                    <edad>29</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Antonio Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Marta Suarez</nombre>
+                    <edad>21</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Javier Torres</nombre>
+                    <edad>29</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+        
+        </plantas>
+    
+    </edificio>
+
+    <edificio>
+        <numedificio>Edificio 3</numedificio>
+        <informacionedif>
+            <direccion>C/Rosales 4</direccion>
+            <totalplantas>3</totalplantas>
+        </informacionedif>
+        <plantas>
+            <numcuadros>5</numcuadros>
+            <numplanta>Planta 1
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Noa Garcia</nombre>
+                    <edad>22</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Mari Lopez</nombre>
+                    <edad>20</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Xavi Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Jose Suarez</nombre>
+                    <edad>26</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Paco Torres</nombre>
+                    <edad>23</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 2
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Rosa Nose</nombre>
+                    <edad>21</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Martin Lopez</nombre>
+                    <edad>23</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Pedrito Gomez</nombre>
+                    <edad>25</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Rosendo Suarez</nombre>
+                    <edad>24</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Hermenegirdo Torres</nombre>
+                    <edad>39</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+            <numplanta>Planta 3
+                <infempleado>
+                    <puesto>1</puesto>
+                    <nombre>Ana Garcia</nombre>
+                    <edad>20</edad>
+                    <extensiontel>611</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>2</puesto>
+                    <nombre>Carmela Lopez</nombre>
+                    <edad>30</edad>
+                    <extensiontel>622</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Anton Gomez</nombre>
+                    <edad>21</edad>
+                    <extensiontel>633</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>3</puesto>
+                    <nombre>Josua Suarez</nombre>
+                    <edad>28</edad>
+                    <extensiontel>644</extensiontel>
+                </infempleado>
+                <infempleado>
+                    <puesto>4</puesto>
+                    <nombre>Paquita Torres</nombre>
+                    <edad>29</edad>
+                    <extensiontel>655</extensiontel>
+                </infempleado>
+            </numplanta>
+
+        
+        </plantas>
+    
+    </edificio>
+
+
+
+
+
+
+</dempresa>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<torneo nombre="Torneo 2020 de tenis">  
+    <fechainicio>Inicio: 1 Diciembre 2020</fechainicio>      
+    <finalizacion>Finalización: 10 Diciembre 2020</finalizacion>
+    <partidos>
+        <fechapartido>1ºPartido: 1 Diciembre</fechapartido>
+        <datos>
+            <nombre>Javier Garcia</nombre>
+            <edad>22</edad>
+            <nombre>Jose Suarez</nombre>
+            <edad>27</edad>
+        </datos>
+        <resultado>6-2 / 6-2 / 6-1 </resultado>
+         <fechapartido>2ºPartido: 2 Diciembre</fechapartido>
+        <datos>
+            <nombre>Pedro Piqueras</nombre>
+            <edad>20</edad>
+            <nombre>Paco Cuevas</nombre>
+            <edad>19</edad>
+        </datos>
+        <resultado>4-6 / 2-6 / 4-6 </resultado>
+         <fechapartido>3ºPartido: 3 Diciembre</fechapartido>
+        <datos>
+            <nombre>Pepito Soto</nombre>
+            <edad>25</edad>
+            <nombre>Carmen Gonzalez</nombre>
+            <edad>23</edad>
+        </datos>
+        <resultado>6-3 / 6-3 / 6-0 </resultado>
+         <fechapartido>4ºPartido: 4 Diciembre</fechapartido>
+        <datos>
+            <nombre>Maria Maroto</nombre>
+            <edad>22</edad>
+            <nombre>Octavio Seras</nombre>
+            <edad>20</edad>
+        </datos>
+        <resultado>6-1 / 6-4 / 6-2 </resultado>
+
+         <fechapartido>5ºPartido: 5 Diciembre</fechapartido>
+        <datos>
+            <nombre>Cristina Alameda</nombre>
+            <edad>28</edad>
+            <nombre>Antonio Anton</nombre>
+            <edad>29</edad>
+        </datos>
+        <resultado>6-0 / 6-1 / 6-3 </resultado>
+
+         <fechapartido>6ºPartido: 6 Diciembre</fechapartido>
+        <datos>
+            <nombre>Mercedes Cuevas</nombre>
+            <edad>21</edad>
+            <nombre>Paco Pepe</nombre>
+            <edad>25</edad>
+        </datos>
+        <resultado>6-0 / 6-0 / 6-0 </resultado>
+
+         <fechapartido>7ºPartido: 7 Diciembre</fechapartido>
+        <datos>
+            <nombre>Javier Diaz</nombre>
+            <edad>18</edad>
+            <nombre>Jose Amancio</nombre>
+            <edad>19</edad>
+        </datos>
+        <resultado>6-4 / 6-4 / 6-4 </resultado>
+
+         <fechapartido>8ºPartido: 8 Diciembre</fechapartido>
+        <datos>
+            <nombre>Pedro Piqueras</nombre>
+            <edad>27</edad>
+            <nombre>Pau Gasol</nombre>
+            <edad>28</edad>
+        </datos>
+        <resultado>6-3 / 6-3 / 6-3 </resultado>
+
+         <fechapartido>9ºPartido: 9 Diciembre</fechapartido>
+        <datos>
+            <nombre>Rafael Nadal</nombre>
+            <edad>21</edad>
+            <nombre>Novad Jocovic</nombre>
+            <edad>29</edad>
+        </datos>
+        <resultado>6-0 / 6-1 / 6-1 </resultado>
+
+         <fechapartido>10ºPartido: 10 Diciembre</fechapartido>
+        <datos>
+            <nombre>Sancho Sotomonte</nombre>
+            <edad>27</edad>
+            <nombre>Paco Delpotro</nombre>
+            <edad>21</edad>
+        </datos>
+        <resultado>6-3 / 6-3 / 6-3 </resultado>        
+         
+    </partidos>
+</torneo>
