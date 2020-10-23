@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="Pedido Jose Miguel">
+  <orderperson>Cliente 1</orderperson>
+  <shipto>
+    <name>Jose Miguel</name>
+    <address>Calle falsa</address>
+    <city>Sevilla</city>
+    <country>Castilleja de la Cuesta</country>
+  </shipto>
+  <item>
+    <title>Pedido ordenadores</title>
+    <note>Ordenadores intel</note>
+    <quantity>4</quantity>
+    <price>1000.50</price>
+  </item>
+</shiporder>

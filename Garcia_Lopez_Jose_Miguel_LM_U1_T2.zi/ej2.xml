@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+!DOCTYPE relacion SYSTEM "ej2.dtd"
+<libro nombre="Catalogo CDATA">
+    <titulo>Programacion</titulo>
+    <Seccion>Tema 1</Seccion>
+    <SubSeccion>Parte A</SubSeccion>
+    <Contenido>
+        <Capitulo nombre="XML">
+            <Tema>Lenguaje XML</Tema>
+        </Capitulo>
+        <Separacion></Separacion>
+    </Contenido>
+    <Copyright>Copyright</Copyright>
+</libro>
