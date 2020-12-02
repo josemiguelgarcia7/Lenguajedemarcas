@@ -1,0 +1,11 @@
+¿por qué los últimos 5 párrafos se muestran de forma diferente que los 2 primeros?
+
+Porque hemos creado la clase `verse´ dentro de parrafo, para darle unos atributos diferentes.
+
+Aquí podemos verlo:
+
+/* Paragraphs */
+p {font-size:12pt; margin-left: 15px}
+p.verse {color:maroon; margin-left: 60px}
+
+Los dos primeros parrafos estan introducidos con <p class="verse"> , y el resto solo con <p>.

@@ -1,0 +1,40 @@
+/* This is a comment */
+/* Style Sheet for Jaberwocky Tutorial */
+
+/* Body */
+body {background-color: tan}
+
+- Le está dando color (tan) a todo el `cuerpo´ del texto, a todo el fondo.
+
+/* Headers */
+h1 {color:maroon; font-size:20pt}
+
+- A todo aquello que le ha dado tamaño h1 :le está dando color marrón y tamaño 20pt
+
+/* HR (Hard Rule = line) */
+hr {color:navy}
+
+- Le esta dando color `navy´ a cada linea de cambio de tema entre parrafos.
+
+/* Paragraphs */
+p {font-size:12pt; margin-left: 15px}
+
+- Le está dando tamaño 12pt a la fuente de cada parrafo, y pegando el texto a la izquierda con un margen de 15 px.
+p.verse {color:maroon; margin-left: 60px}
+
+- Al párrafo que le hemos dado class=verse le damos color marron a las letras, y un margen a la izquierda de 60px.
+
+/* Divs */
+
+/* Links */
+a:link     {color:green}
+a:visited  {color:yellow}
+a:hover    {color:black}
+a:active   {color:blue}
+
+- Le ha dado color a las letras que contendran la url,se muestra de color verde,si clickas en él o lo arrastras de color azul,si lo has visitado de color amarillo y si pones el puntero encima se pone de color negro.
+/* Navigation */
+
+/* Classes used by all html elements */
+
+/* Ids */
