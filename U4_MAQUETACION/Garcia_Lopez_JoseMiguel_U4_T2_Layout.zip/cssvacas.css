@@ -1,0 +1,99 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+hr {
+  background-color: gray;
+}
+
+.Logovaca {
+  float: right;
+  margin-right: 5%;
+  width: 230px;
+  height: 180px;
+}
+
+header {
+  margin: 2% auto;
+  width: 80%;
+}
+
+.cabecera1 {
+  background-color: #6d9b22;
+  padding-top: 35px;
+  padding-bottom: 25px;
+  padding-left: 5%;
+  color: aliceblue;
+  font-size: 40px;
+}
+
+.cabecera2 {
+  background-color: #3a5d06;
+  padding-left: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: aliceblue;
+  font-size: 28px;
+}
+
+.cuerpo {
+  display: block;
+  margin: 20px auto;
+  width: 85%;
+  background-color: #eeeeee;
+
+}
+
+.columna1 {
+  vertical-align: top;
+  display: inline-block;
+  width: 15%;
+  margin-left: 5%;
+  margin-top: 3%;
+  vertical-align: 100%;
+}
+
+.columna2 {
+  vertical-align: top;
+  display: inline-block;
+  width: 40%;
+  margin-left: 1%;
+  margin-top: 3%;
+}
+
+.columna3 {
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 3%;
+  width: 30%;
+  margin-top: 3%;
+
+}
+
+.parte1 {
+  background-color: #ad3f13;
+  color: aliceblue;
+  padding: 6%;
+}
+
+.parte2 {
+  background-color: #dddddd;
+  padding: 10%;
+  text-align: center;
+}
+
+.tw,
+.numero,
+.nueve,
+.facebook,
+.facebook,
+.likefb,
+.google {
+  width: 35%;
+
+}
+
+.vaca {
+  margin-left: 10%;
+}
