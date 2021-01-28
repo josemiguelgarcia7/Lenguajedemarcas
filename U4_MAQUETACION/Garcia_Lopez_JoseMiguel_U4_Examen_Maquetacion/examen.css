@@ -1,0 +1,155 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.logotipo {
+
+  float: left;
+  margin-left: 5%;
+  width: 260px;
+  height: 80px;
+}
+
+.lupas {
+  text-align: right;
+  margin-right: 5%
+}
+
+.lupa {
+  height: 30px
+}
+
+.lupa3 {
+
+  margin-right: 1%;
+  width: 30px;
+  height: 30px;
+
+}
+
+.china,
+.iran {
+
+  text-align: right;
+  vertical-align: right;
+  width: 30px;
+  height: 30px;
+}
+
+.cabecera1 {
+
+  border: black;
+  background-color: pink;
+  margin-top: 0%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 0.05%;
+
+  color: aliceblue;
+  font-size: 17px;
+}
+
+.a {
+  display: inline-block;
+}
+
+.b {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.c {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.d {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.e {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.cuadrado {
+  display: block;
+}
+
+.twwet {
+  display: inline-block;
+  margin: 1%;
+  margin-right: 5%;
+  float: right;
+
+}
+
+.cuadradocentral {
+  margin-top: 1%;
+  text-align: left;
+}
+
+.codigo {
+  display: inline-block;
+  margin-left: 5%
+}
+
+.img1 {
+
+  display: inline-block;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border: 2px solid pink;
+  padding: 2%;
+  text-align: center;
+  margin-left: 12%
+}
+
+.img2 {
+  display: inline-block;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border: 2px solid pink;
+  padding: 2%;
+  text-align: center;
+  margin-left: 2%
+}
+
+.img3 {
+  display: inline-block;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border: 2px solid pink;
+  padding: 2%;
+  text-align: center;
+  r;
+  margin-left: 2%
+}
+
+.png1,
+.png2,
+.png3 {
+  width: 120px;
+  height: 80px;
+
+}
+
+.pie {
+  margin-top: 5%;
+  border: black;
+  background-color: pink;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 0.05%;
+  color: aliceblue;
+  font-size: 17px;
+  text-align: center;
+}
